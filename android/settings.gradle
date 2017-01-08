@@ -1,0 +1,3 @@
+rootProject.name = 'lekseis'
+
+include ':app'
