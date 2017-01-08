@@ -15,7 +15,7 @@ export default class Main extends Component {
     const { navigator } = this.props;
     setTimeout(() => {
       navigator.push(routes[1]);
-    }, 2000);
+    }, 0);
   }
 
   render() {
